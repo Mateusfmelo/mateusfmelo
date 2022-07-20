@@ -1,6 +1,6 @@
 ### Olá, eu sou o Mateus! 
 
-- 🌱 Estou estudando HTML, CSS3, Java e JavaScript
+- 🌱 Estou estudando HTML5, CSS3, Java e JavaScript
 
 <div align="center">
   <a href="https://github.com/mateusfmelo">
