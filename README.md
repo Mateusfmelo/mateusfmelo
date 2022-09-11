@@ -1,14 +1,17 @@
-## Olá, eu sou o Mateus! 
+# Olá, eu sou o Mateus! 
 
-- 🌱 Estou estudando HTML5, CSS3, Java e JavaScript
+- 🤓 Sou aluno do 5° Período do Curso de Sistemas para Internet no IFPB - Campus Guarabira
+- 🧐 Estou conciliando uma rotina de estudos na universidade e em outras plataformas
+- 😀 Sejam bem-vindo para navegar no meu repositório
+- 🌱 Estou estudando HTML5, CSS3, JavaScript e Java
+
+<br>
 
 <div align="center">
   <a href="https://github.com/mateusfmelo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusfmelo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusfmelo&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
-  <br>
   
 <div style="display: inline_block" align="center">
   <h3>Tecnologias que tive algum tipo de contato</h3><br>
