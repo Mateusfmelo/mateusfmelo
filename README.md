@@ -2,7 +2,7 @@
 
 - 🤓 Sou aluno do 5° Período do Curso de Sistemas para Internet no IFPB - Campus Guarabira
 - 🧐 Estou conciliando uma rotina de estudos na universidade e em outras plataformas
-- 😀 Sejam bem-vindo para navegar no meu repositório
+- 😀 Sejam bem-vindos para navegar no meu repositório
 - 🌱 Estou estudando HTML5, CSS3, JavaScript e Java
 
 <br>
