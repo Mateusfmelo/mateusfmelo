@@ -1,9 +1,9 @@
 # Olá, eu sou o Mateus! 
 
-- 🤓 Sou aluno do 6° Período do Curso de Sistemas para Internet no IFPB - Campus Guarabira
-- 🧐 Estou conciliando uma rotina de estudos na universidade e em outras plataformas
-- 😀 Sejam bem-vindos para navegar no meu repositório
+- 🤓 Sou graduado no Curso de Sistemas para Internet pelo IFPB - Campus Guarabira
+- - 😀 Sejam bem-vindos para navegar no meu repositório
 - 🌱 Estou estudando HTML5, CSS3, JavaScript e Java
+- 🧐 Estou conciliando uma rotina de estudos
 
 <br>
 
